@@ -5,7 +5,7 @@ Code repository for MSc Artificial Intelligence individual project
 
 There are 8 Jupyter Notebooks (see list below), each of them contains specific running instructions in the first cell.
 
-There are 4 links to model weights and 2 to pre-created LIME and SHAP objects stored on OneDrive. These are not available on GitHub due to file size constraints.
+There is a link to a zipped file on OneDrive containing 4  model weights and 2 pre-created LIME and SHAP objects. These are not available on GitHub due to file size constraints.
 
 There are 4 py module files containing functions that are imported by the notebooks
 
